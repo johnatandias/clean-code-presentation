@@ -2,7 +2,7 @@
   "name": "clean-code-presentation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://johnatandias.github.io/clean-code-presentation",
+  "homepage": "https://www.cleancode.johnatandias.dev/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
